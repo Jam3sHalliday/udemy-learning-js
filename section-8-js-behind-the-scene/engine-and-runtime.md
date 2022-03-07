@@ -42,7 +42,7 @@
   - The resulting tree will later be used to generate the machine code.
 
 **Compilation:** take the generated AST, compile it into machine code and get executed right away (happen in call stack).
-<br />
+<br /> 
 
 **EXECUTION**
 - modern js engines have some pretty cleaver optimization strategies
